@@ -5,5 +5,5 @@ This repository is a space for reviewing various papers.(eg CV, Deeplearning, XA
 
 |Date|Topic|Review Link|
 |------|---|---|
-|2021.12.27|Image Style Transfer Using Convolutional Neural Networks(CVPR2016)| https://science886.tistory.com/2 |
+|2021.12.27|[Image Style Transfer Using Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html)| https://science886.tistory.com/2 |
 
