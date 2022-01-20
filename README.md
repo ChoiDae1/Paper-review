@@ -12,3 +12,4 @@ This repository is a space for **reviewing various papers.** (e.g CV, Deeplearni
 |2022.01.12|[Mask R-CNN](https://arxiv.org/abs/1703.06870)| https://science886.tistory.com/10|
 |2022.01.18|[End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)| https://science886.tistory.com/11|
 |2022.01.19|[Vision Transfomers for Dense Prediction](https://arxiv.org/abs/2103.13413)| https://science886.tistory.com/12|
+|2022.01.21|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)| https://science886.tistory.com/13|
