@@ -13,3 +13,4 @@ This repository is a space for **reviewing various papers.** (e.g CV, Deeplearni
 |2022.01.18|[End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)| https://science886.tistory.com/11|
 |2022.01.19|[Vision Transfomers for Dense Prediction](https://arxiv.org/abs/2103.13413)| https://science886.tistory.com/12|
 |2022.01.21|[NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934)| https://science886.tistory.com/13|
+|2022.01.26|[A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)| https://science886.tistory.com/14|
