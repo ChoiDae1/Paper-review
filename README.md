@@ -4,7 +4,7 @@ This repository is a space for **reviewing various papers.** (e.g CV, Deeplearni
 </br> In this README.md file, the address of the review of the each paper will be attached. 
 
 
-|Date|Topic|Review Link|
+|Date|Paper Title|Review Link|
 |------|---|---|
 |2021.12.27|[Image Style Transfer Using Convolutional Neural Networks](https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html)| https://science886.tistory.com/2 |
 |2022.01.06|[An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)| https://science886.tistory.com/7 |
