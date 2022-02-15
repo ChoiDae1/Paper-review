@@ -16,3 +16,4 @@ This repository is a space for **reviewing various papers.** (e.g CV, Deeplearni
 |2022.01.26|[A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)| https://science886.tistory.com/14|
 |2022.02.08|[GLIDE: Toward Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741)| https://science886.tistory.com/17|
 |2022.02.15|[CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/abs/2112.05139)| https://science886.tistory.com/19|
+|2022.02.16|[Digging Into Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/1806.01260)| https://science886.tistory.com/20|
