@@ -18,3 +18,4 @@ This repository is a space for **reviewing various papers.** (e.g CV, Deeplearni
 |2022.02.15|[CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://arxiv.org/abs/2112.05139)| https://science886.tistory.com/19|
 |2022.02.16|[Digging Into Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/1806.01260)| https://science886.tistory.com/20|
 |2022.02.22|[Attention Is All You Need](https://arxiv.org/abs/1706.03762)| https://science886.tistory.com/21|
+|2022.03.13|[Point-NeRF: Point-based Neural Radiance Fields](https://arxiv.org/abs/2201.08845)| https://science886.tistory.com/23|
