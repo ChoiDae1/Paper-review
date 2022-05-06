@@ -20,3 +20,5 @@ This repository is a space for **reviewing various papers.** (e.g CV, Deeplearni
 |2022.02.22|[Attention Is All You Need](https://arxiv.org/abs/1706.03762)| https://science886.tistory.com/21|
 |2022.03.13|[Point-NeRF: Point-based Neural Radiance Fields](https://arxiv.org/abs/2201.08845)| https://science886.tistory.com/23|
 |2022.03.18|[Improving neural implicit surfaces geometry with patch warping](https://arxiv.org/abs/2112.09648)| https://science886.tistory.com/26|
+|2022.05.03|[Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/abs/2008.00951)| https://science886.tistory.com/30|
+|2022.05.04|[Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/abs/2102.02766)| https://science886.tistory.com/31|
