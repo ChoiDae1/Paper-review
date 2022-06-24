@@ -22,3 +22,4 @@ This repository is a space for **reviewing various papers.** (e.g CV, Deeplearni
 |2022.03.18|[Improving neural implicit surfaces geometry with patch warping](https://arxiv.org/abs/2112.09648)| https://science886.tistory.com/26|
 |2022.05.03|[Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/abs/2008.00951)| https://science886.tistory.com/30|
 |2022.05.04|[Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/abs/2102.02766)| https://science886.tistory.com/31|
+|2022.06.24|[Pivotal Tuning for Latent-based Editing of Real Images](https://arxiv.org/abs/2106.05744)| https://science886.tistory.com/33|
