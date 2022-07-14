@@ -24,3 +24,4 @@ This repository is a space for **reviewing various papers.** (e.g CV, Deeplearni
 |2022.05.04|[Designing an Encoder for StyleGAN Image Manipulation](https://arxiv.org/abs/2102.02766)| https://science886.tistory.com/31|
 |2022.06.24|[Pivotal Tuning for Latent-based Editing of Real Images](https://arxiv.org/abs/2106.05744)| https://science886.tistory.com/34|
 |2022.07.11|[High-Fidelity GAN Inversion for Image Attribute Editing](https://arxiv.org/abs/2109.06590)| https://science886.tistory.com/35|
+|2022.07.14|[Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing](https://arxiv.org/abs/2206.08357)| https://science886.tistory.com/36|
