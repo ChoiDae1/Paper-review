@@ -1,4 +1,4 @@
-# paper_review
+# paper-review
 This repository is a space for **reviewing various papers.** (e.g CV, Deeplearning, XAI etc)
 </br> All contents of the paper review will uploaded at my blog. -> [link](https://science886.tistory.com/category/Paper%20review)
 </br> In this README.md file, the address of the review of the each paper will be attached. 
