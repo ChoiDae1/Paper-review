@@ -27,3 +27,4 @@ This repository is a space for **reviewing various papers.** (e.g CV, Deeplearni
 |2022.07.14|[Spatially-Adaptive Multilayer Selection for GAN Inversion and Editing](https://arxiv.org/abs/2206.08357)| https://science886.tistory.com/36|
 |2022.07.21|[LARGE: Latent-Based Regression through GAN Semantics](https://arxiv.org/abs/2107.11186)| https://science886.tistory.com/38|
 |2022.07.22|[Efficient Geometry-aware 3D Generative Adversarial Networks](https://arxiv.org/abs/2112.07945)| https://science886.tistory.com/39|
+|2022.01.03|[Model-Agnostic Meta-learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)| https://science886.tistory.com/42|
